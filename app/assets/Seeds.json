@@ -1,0 +1,47 @@
+{
+    "seeds": [{
+              "seedID" : "0",
+              "title" : "Peter's crazy wish",
+              "message" : "This is a a testing wish",
+              "imageURLs" : [
+                             {"imageURL" : "testingurl1"},
+                             {"imageURL" : "testingurl2"},
+                             {"imageURL" : "testingurl3"}
+                             ],
+              "support" : "15",
+              "comments" : [{
+                                "commentID" : "0",
+                                "comment" : "My first comment",
+                                "timeStampe" : "2012-09-16 23:59:59",
+                                "thanks" : "2",
+                                "user" : {
+                                            "userID" : "1",
+                                            "username" : "johnnappleseed",
+                                            "firstName" : "John",
+                                            "lastName" : "Appleseed",
+                                            "profileImageURL" : "testingprofileimageurl1"
+                                        }
+                            },
+                            {
+                                "commentID" : "1",
+                                "comment" : "My second comment",
+                                "timeStampe" : "2012-09-18 23:59:59",
+                                "thanks" : "0",
+                                "user" : {
+                                            "userID" : "1",
+                                            "username" : "dave",
+                                            "firstName" : "Dave",
+                                            "lastName" : "Crazy",
+                                            "profileImageURL" : "testingprofileimageurl1"
+                                        }
+                            }],
+              "fulfilled" : "no",
+              "user" : {
+                        "userID" : "0",
+                        "username" : "johnnappleseed",
+                        "firstName" : "John",
+                        "lastName" : "Appleseed",
+                        "profileImageURL" : "testingprofileimageurl1"
+                        }
+              }]
+}
