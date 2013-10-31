@@ -4,9 +4,9 @@
               "title" : "Peter's crazy wish",
               "message" : "This is a a testing wish",
               "imageURLs" : [
-                             {"imageURL" : "testingurl1"},
-                             {"imageURL" : "testingurl2"},
-                             {"imageURL" : "testingurl3"}
+                             {"imageURL" : "http://lorempixel.com/400/400/"},
+                             {"imageURL" : "http://lorempixel.com/400/400/"},
+                             {"imageURL" : "http://lorempixel.com/400/400/"}
                              ],
               "support" : "15",
               "comments" : [{
@@ -19,7 +19,7 @@
                                             "username" : "johnnappleseed",
                                             "firstName" : "John",
                                             "lastName" : "Appleseed",
-                                            "profileImageURL" : "testingprofileimageurl1"
+                                            "profileImageURL" : "http://lorempixel.com/400/400/people"
                                         }
                             },
                             {
@@ -32,7 +32,7 @@
                                             "username" : "dave",
                                             "firstName" : "Dave",
                                             "lastName" : "Crazy",
-                                            "profileImageURL" : "testingprofileimageurl1"
+                                            "profileImageURL" : "http://lorempixel.com/400/400/people"
                                         }
                             }],
               "fulfilled" : "no",
@@ -41,7 +41,7 @@
                         "username" : "johnnappleseed",
                         "firstName" : "John",
                         "lastName" : "Appleseed",
-                        "profileImageURL" : "testingprofileimageurl1"
+                        "profileImageURL" : "http://lorempixel.com/400/400/people"
                         }
               }]
 }
