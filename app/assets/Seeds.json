@@ -12,7 +12,7 @@
               "comments" : [{
                                 "commentID" : "0",
                                 "comment" : "My first comment",
-                                "timeStampe" : "2012-09-16 23:59:59",
+                                "timeStamp" : "2012-09-16 23:59:59",
                                 "thanks" : "2",
                                 "user" : {
                                             "userID" : "1",
@@ -25,7 +25,7 @@
                             {
                                 "commentID" : "1",
                                 "comment" : "My second comment",
-                                "timeStampe" : "2012-09-18 23:59:59",
+                                "timeStamp" : "2012-09-18 23:59:59",
                                 "thanks" : "0",
                                 "user" : {
                                             "userID" : "1",
