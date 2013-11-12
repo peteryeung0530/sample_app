@@ -2,7 +2,7 @@
     "seeds": [{
               "seedID" : "0",
               "title" : "Peter's crazy wish",
-              "message" : "This is a a testing wish",
+              "message" : "This is a a testing wish This is a a testing wish This is a a testing wish This is a a testing wish This is a a testing wish This is a a testing wish",
               "imageURLs" : [
                              "http://farm9.staticflickr.com/8452/8028605779_2bd9338008_m.jpg",
                              "http://farm8.staticflickr.com/7044/6851855959_77be5fd464_m.jpg",
