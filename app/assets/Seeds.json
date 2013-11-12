@@ -6,7 +6,9 @@
               "imageURLs" : [
                              "http://farm9.staticflickr.com/8452/8028605779_2bd9338008_m.jpg",
                              "http://farm8.staticflickr.com/7044/6851855959_77be5fd464_m.jpg",
-                             "http://farm9.staticflickr.com/8465/8079198551_48f29d2544_m.jpg"
+                             "http://farm9.staticflickr.com/8465/8079198551_48f29d2544_m.jpg",
+                             "http://farm8.staticflickr.com/7236/7171671407_c984b156ac_m.jpg",
+                             "http://farm8.staticflickr.com/7383/10055304773_622fa7c3bf_m.jpg"
                              ],
               "support" : "15",
               "timeStamp" : "2013-11-09 13:26:32 -0800",
@@ -52,9 +54,7 @@
               "title" : "Peter's second crazy wish",
               "message" : "This is the second testing wish",
               "imageURLs" : [
-                             "http://farm6.staticflickr.com/5063/5563307904_81401d7e91_m.jpg",
-                             "http://farm8.staticflickr.com/7236/7171671407_c984b156ac_m.jpg",
-                             "http://farm8.staticflickr.com/7383/10055304773_622fa7c3bf_m.jpg"
+                             "http://farm6.staticflickr.com/5063/5563307904_81401d7e91_m.jpg"
                              ],
               "support" : "3",
               "timeStamp" : "2013-09-09 13:26:32 -0800",
