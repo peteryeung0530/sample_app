@@ -1,7 +1,7 @@
 {
 	"questions" : [{
 		"user" : {
-			"userID" : "123456",
+			"userID" : "0",
 			"username" : "PeterYeung",
 			"firstName" : "Peter",
 			"lastName" : "Yeung",
@@ -10,5 +10,17 @@
 		"questionTitle" : "Solve the following equation for X",
 		"questionImageURL" : "http://lorempixel.com/400/200/city",
 		"solutionCount" : "5"
+		},
+		{
+		"user" : {
+			"userID" : "1",
+			"username" : "AliceLee",
+			"firstName" : "Alice",
+			"lastName" : "Lee",
+			"location" : "Vancouver"
+		},
+		"questionTitle" : "Find the common denominator",
+		"questionImageURL" : "http://lorempixel.com/400/200/city",
+		"solutionCount" : "0"
 		}]
 }
