@@ -2,7 +2,7 @@
 	"questions" : [{
 		"user" : {
 			"userID" : "123456",
-			"userName" : "PeterYeung",
+			"username" : "PeterYeung",
 			"firstName" : "Peter",
 			"lastName" : "Yeung",
 			"location" : "Vancouver"
