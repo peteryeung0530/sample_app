@@ -9,6 +9,6 @@
 		},
 		"questionTitle" : "Solve the following equation for X",
 		"questionImageURL" : "http://lorempixel.com/400/200/city",
-		"solutionsCount" : "5"
+		"solutionCount" : "5"
 		}]
 }
