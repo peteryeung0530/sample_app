@@ -5,7 +5,8 @@
 			"username" : "PeterYeung",
 			"firstName" : "Peter",
 			"lastName" : "Yeung",
-			"location" : "Vancouver"
+			"location" : "Vancouver",
+			"profileImageURL" : "http://lorempixel.com/200/200/people"
 		},
 		"questionTitle" : "Solve the following equation for X",
 		"questionImageURL" : "http://lorempixel.com/400/200/city",
