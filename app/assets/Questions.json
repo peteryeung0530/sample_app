@@ -18,7 +18,7 @@
 			"username" : "AliceLee",
 			"firstName" : "Alice",
 			"lastName" : "Lee",
-			"location" : "Vancouver"
+			"location" : "Vancouver",
 			"profileImageURL" : "http://lorempixel.com/200/200/people"
 		},
 		"questionTitle" : "Find the common denominator",
