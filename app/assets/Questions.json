@@ -9,7 +9,7 @@
 			"profileImageURL" : "http://lorempixel.com/200/200/people"
 		},
 		"questionTitle" : "What is the length of side a?",
-		"questionImageURL" : "http://lorempixel.com/200/200/people",
+		"questionImageURL" : "http://www.mathopolis.com/questions/images/d/f/9af7a6d356106f678bca689694dd7d2.gif",
 		"solutionCount" : "5"
 		},
 		{
@@ -21,10 +21,8 @@
 			"location" : "Vancouver",
 			"profileImageURL" : "http://lorempixel.com/200/200/people"
 		},
-		"questionTitle" : "A car averages 27 miles per gallon. If gas costs $4.04 per gallon, 
-							which of the following is closest to how much the gas would cost 
-							for this car to travel 2,727 typical miles?",
-		"questionImageURL" : "http://lorempixel.com/200/200/people",
+		"questionTitle" : "A car averages 27 miles per gallon. If gas costs $4.04 per gallon, which of the following is closest to how much the gas would cost for this car to travel 2,727 typical miles?",
+		"questionImageURL" : "",
 		"solutionCount" : "0"
 		}]
 }
