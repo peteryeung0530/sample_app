@@ -15,5 +15,11 @@ class StaticPagesController < ApplicationController
   	@file = File.read("#{Rails.root}/app/assets/Questions.json")
   	render :json => @file
   end
+
+  def solution
+    @file = File.read("#{Rails.root}/app/assets/Solution.json")
+    render :json => @file
+  end
+
   
 end

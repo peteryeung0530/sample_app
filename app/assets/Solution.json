@@ -1,0 +1,31 @@
+{
+	"solution" : {
+		"user" : {
+			"id" : "1",
+			"username" : "AliceLee",
+			"firstName" : "Alice",
+			"lastName" : "Lee",
+			"location" : "Vancouver",
+			"profileImageURL" : "http://lorempixel.com/200/200/people"
+		},
+		"solutionID" : "0",
+		"steps" : [{
+			"id" : "0",
+			"number" : "0",
+			"count" : "3",
+			"media" : {
+				"id" : "0",
+				"url" : "",
+				"width" : "320",
+				"height" : "320",
+				"type" : "video",
+				"createdTime" : "1386862640"
+			},
+			"caption" : {
+				"id" : "0",
+				"createdTime" : "1386858742",
+				"text" : "In this step you are moving the +5 to the other side of the equation as a -5"
+			}
+		}]
+	}
+}
