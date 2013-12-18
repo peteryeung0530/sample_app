@@ -9,12 +9,25 @@
 			"profileImageURL" : "http://lorempixel.com/200/200/people"
 		},
 		"title" : "What is the length of side a?",
-		"image" : {
+		"images" : [{
 			"id" : "0",
 			"source" : "http://farm8.staticflickr.com/7391/11118570444_e6f9348eb9.jpg",
 			"height" : "375",
 			"width" : "500"
-		},
+			},
+			{
+			"id" : "1",
+			"source" : "http://farm8.staticflickr.com/7236/7171671407_c984b156ac_m.jpg",
+			"height" : "158",
+			"width" : "240"
+			},
+			{
+			"id" : "2",
+			"source" : "http://farm8.staticflickr.com/7391/11118570444_e6f9348eb9.jpg",
+			"height" : "375",
+			"width" : "500"
+			}
+		],
 		"solutionCount" : "5"
 		},
 		{
