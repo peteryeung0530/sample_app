@@ -16,7 +16,7 @@ class StaticPagesController < ApplicationController
   	render :json => @file
   end
 
-  def solution
+  def solutions
     @file = File.read("#{Rails.root}/app/assets/Solution.json")
     render :json => @file
   end
