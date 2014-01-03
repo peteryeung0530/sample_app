@@ -16,8 +16,8 @@
 			"type" : "2",
 			"media" : {
 				"id" : "0",
-				"url" : "http://farm9.staticflickr.com/8180/8030108563_6f3cdd5da0_b.jpg",
-				"width" : "805",
+				"url" : "http://farm4.staticflickr.com/3771/11724422094_a8c3360453.jpg",
+				"width" : "1395",
 				"height" : "537",
 				"type" : "2",
 				"createdTime" : "1386862640"
@@ -26,6 +26,25 @@
 				"id" : "0",
 				"createdTime" : "1386858742",
 				"text" : "In this step you are moving the +5 to the other side of the equation as a -5"
+			}
+		},
+		{
+			"id" : "1",
+			"number" : "1",
+			"count" : "3",
+			"type" : "2",
+			"media" : {
+				"id" : "1",
+				"url" : "http://farm4.staticflickr.com/3705/11724314613_99dd7b7127.jpg",
+				"width" : "1395",
+				"height" : "537",
+				"type" : "2",
+				"createdTime" : "1386862640"
+			},
+			"caption" : {
+				"id" : "0",
+				"createdTime" : "1386858742",
+				"text" : "In this step you get rid of the 2 on the left hand side by dividing both sides by 2"
 			}
 		}]
 	}
