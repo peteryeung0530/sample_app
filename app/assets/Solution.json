@@ -26,7 +26,49 @@
 				"id" : "0",
 				"createdTime" : "1386858742",
 				"text" : "In this step you are moving the +5 to the other side of the equation as a -5"
-			}
+			},
+			"comments" : [{
+				"count" : "3",
+				"data" : [{
+					"createdTime" : "1389013999",
+					"text" : "How come you can move the 5 over by subtracting?",
+					"from" : {
+						"id" : "0",
+						"username" : "PeterYeung",
+						"firstName" : "Peter",
+						"lastName" : "Yeung",
+						"location" : "Vancouver",
+						"profileImageURL" : "http://lorempixel.com/200/200/people"
+					},
+					"id" : "0"
+				},
+				{
+					"createdTime" : "1389014139",
+					"text" : "In algebra you can move things around by applying the opposit to what is being done to it.  In the example, it's +5 on the left hand side so in order to move it, you just need to -5 on the right hand side",
+					"from" : {
+						"id" : "1",
+						"username" : "AliceLee",
+						"firstName" : "Alice",
+						"lastName" : "Lee",
+						"location" : "Vancouver",
+						"profileImageURL" : "http://lorempixel.com/200/200/people"
+					},
+					"id" : "1"
+				},
+				{
+					"createdTime" : "1389014955",
+					"text" : "I still don't really get this can you please show it in a video?",
+					"from" : {
+						"id" : "0",
+						"username" : "PeterYeung",
+						"firstName" : "Peter",
+						"lastName" : "Yeung",
+						"location" : "Vancouver",
+						"profileImageURL" : "http://lorempixel.com/200/200/people"
+					},
+					"id" : "2"
+				}]
+			}]
 		},
 		{
 			"id" : "1",
